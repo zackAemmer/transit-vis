@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7fa6c3e9-4631-46f1-b0ce-284d63a032be/deploy-status)](https://app.netlify.com/sites/boring-almeida-a309db/deploys)
 
 ## Transit Vis
-[Performance Visualization Tool](https://www.transitvis.com)
+Transit Performance Visualization Tool
 
 ### Motivation
 This project develops a visualization tool to display performance metrics derived from the King County Metro GTFS-RT feed (OneBusAway API). It has the added benefit of being constructed on the GTFS-RT standard, so that it is easily extendable to other feeds.
